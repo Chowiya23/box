@@ -1,0 +1,16 @@
+.outer-div{
+     border: 5px solid purple;
+     padding: 20px;
+     margin: 50px;
+
+}
+
+
+.inner-div{
+    border: 5px dotted green;
+    padding: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
